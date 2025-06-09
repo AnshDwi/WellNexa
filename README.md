@@ -1,5 +1,5 @@
 # WellNexa<br>
-MedVista is an advanced medical app designed to provide a comprehensive and user friendly healthcare experience.<br>
+WellNexa is an advanced medical app designed to provide a comprehensive and user friendly healthcare experience.<br>
 1) Landing Page<br>
    ![WhatsApp Image 2024-04-14 at 23 11 05_48ddad89](https://github.com/surajjaiswar2003/MedVista/assets/114589484/65fdd62e-b3a2-40c0-800c-ef9e293c2a50)<br>
 2)Login Pagee<br>
